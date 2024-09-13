@@ -9,6 +9,8 @@ I’m a data enthusiast passionate about transforming complex datasets into acti
 
 🌍 I'm based in UK
 
+## 🔗 My website
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aldonastolarz11.wixsite.com/my-site-4/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldona-stolarz-mpa-947b472bb/) 
